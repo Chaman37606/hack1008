@@ -1,4 +1,5 @@
 name=input("Enter your name:")
+
 print(name.center(len(name)+1,"*"))
 
 print(name.center(len(name)+2,"*"))

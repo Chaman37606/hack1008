@@ -5,6 +5,7 @@ def gcd(m,n):
     cf=i
   return(cf)
 
+
 s=gcd(28,14) 
 print(s) 
   	  
